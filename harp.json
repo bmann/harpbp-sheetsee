@@ -1,7 +1,6 @@
 {
+  "domains": [],
   "globals": {
-    "name"  : "Brock Whitten",
-    "debug" : false,
     "spreadsheet": "https://docs.google.com/spreadsheet/ccc?key=0Ao5u1U6KYND7dFVkcnJRNUtHWUNKamxoRGg4ZzNiT3c#gid=0",
     "sheetkey": "0Ao5u1U6KYND7dFVkcnJRNUtHWUNKamxoRGg4ZzNiT3c"
   }
